@@ -42,7 +42,7 @@ interface SentimentResult {
 - POST `/analyze` endpoint with valid/invalid inputs/outputs
 - GET `/reviews` endpoint with valid/invalid inputs/outputs
 - Database operations and data validation
-- Error handling for AI service failures
+- Error handling for service failures
 
 **Minimum Coverage**: 80% for backend logic
 
