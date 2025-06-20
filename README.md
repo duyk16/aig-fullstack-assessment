@@ -31,7 +31,7 @@ interface SentimentResult {
 }
 ```
 
-### Technology Stack
+### Suggested Technology Stack
 - **Frontend**: Next.js 14+ with TypeScript
 - **Backend**: NestJS/FastAPI
 - **Database**: SQLite with Prisma ORM
